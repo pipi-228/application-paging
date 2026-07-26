@@ -1,0 +1,229 @@
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\ArchivePage.baml
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\Task1Page.baml
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\Task2Page.baml
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\ArchivePage.g.cs
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\Task1Page.g.cs
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\Task2Page.g.cs
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\Уроки\3 курс\2 семестр\c# windows(чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\ArchivePage.baml
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\Task1Page.baml
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\Task2Page.baml
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\ArchivePage.g.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\Task1Page.g.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\Pages\Task2Page.g.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7\WpfApp1\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\Pages\ArchivePage.baml
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\Pages\Task1Page.baml
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\Pages\Task2Page.baml
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\Pages\ArchivePage.g.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\Pages\Task1Page.g.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\Pages\Task2Page.g.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\0\Desktop\уроки\3 курс\2 семестр\c# windows (чередникова)\lab7+\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll

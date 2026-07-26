@@ -1,0 +1,112 @@
+<Page x:Class="Lab7.Pages.ArchivePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Архив" WindowTitle="Просмотр / редактирование архива"
+      Initialized="Page_Initialized">
+
+    <Grid Margin="8">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Кнопки режима + задания -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,6">
+            <GroupBox Header="Режим" Padding="6,2" Margin="0,0,8,0">
+                <StackPanel Orientation="Horizontal">
+                    <RadioButton Name="rbView" Content="Просмотр"      Margin="0,0,10,0"
+                                 IsChecked="True" Checked="rbView_Checked"/>
+                    <RadioButton Name="rbEdit" Content="Редактирование" Checked="rbEdit_Checked"/>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="Задания" Padding="6,2" Margin="0,0,8,0">
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="Задание 1" Margin="0,0,6,0" Click="Task1_Click" Width="90"/>
+                    <Button Content="Задание 2" Click="Task2_Click" Width="90"/>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="Правка" Padding="6,2">
+                <StackPanel Orientation="Horizontal">
+                    <Button Name="btnAdd"    Content="Добавить"  Width="80" Margin="0,0,6,0" Click="Add_Click"/>
+                    <Button Name="btnDelete" Content="Удалить"   Width="80" Margin="0,0,6,0" Click="Delete_Click"/>
+                    <Button Name="btnSave"   Content="Сохранить" Width="100" Click="Save_Click"/>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+
+        <!-- Таблица -->
+        <DataGrid Grid.Row="1" Name="dataGrid"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  SelectionMode="Single"
+                  ColumnHeaderHeight="28"
+                  RowHeight="24"
+                  AlternatingRowBackground="#F5F5FF"
+                  IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Наименование"    Binding="{Binding Name}"            Width="160"/>
+                <DataGridTextColumn Header="Инв. №"          Binding="{Binding InventoryNumber}"  Width="70"/>
+                <DataGridTextColumn Header="Лаб."            Binding="{Binding LabNumber}"        Width="50"/>
+                <DataGridTextColumn Header="Дата покупки"    Binding="{Binding PurchaseDate}"     Width="90"/>
+                <DataGridTextColumn Header="Стоимость" Binding="{Binding Cost,StringFormat=N2}"  Width="110"/>
+                <DataGridTextColumn Header="Срок, лет"       Binding="{Binding ServiceLife}"      Width="75"/>
+                <DataGridTextColumn Header="Кол-во"          Binding="{Binding Quantity}"         Width="60"/>
+                <DataGridTextColumn Header="Год списания"    Binding="{Binding WriteOffYear}"     Width="90"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Форма редактирования -->
+        <GroupBox Grid.Row="2" Name="editPanel" Header="Редактирование записи"
+                  Visibility="Collapsed" Margin="0,6,0,0" Padding="8">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="140"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="90"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="90"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="80"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Label Content="Наименование:"    Grid.Row="0" Grid.Column="0" VerticalAlignment="Center"/>
+                <TextBox Name="tbName"            Grid.Row="0" Grid.Column="1" Margin="2" VerticalContentAlignment="Center"/>
+
+                <Label Content="Инв. №:"          Grid.Row="0" Grid.Column="2" VerticalAlignment="Center"/>
+                <TextBox Name="tbInvNum"          Grid.Row="0" Grid.Column="3" Margin="2" VerticalContentAlignment="Center"/>
+
+                <Label Content="Лаб.:"            Grid.Row="0" Grid.Column="4" VerticalAlignment="Center"/>
+                <TextBox Name="tbLab"             Grid.Row="0" Grid.Column="5" Margin="2" VerticalContentAlignment="Center"/>
+
+                <Label Content="Год пок.:"        Grid.Row="0" Grid.Column="6" VerticalAlignment="Center"/>
+                <TextBox Name="tbYear"            Grid.Row="0" Grid.Column="7" Margin="2" VerticalContentAlignment="Center"/>
+
+                <Label Content="Месяц пок.:"      Grid.Row="1" Grid.Column="0" VerticalAlignment="Center"/>
+                <TextBox Name="tbMonth"           Grid.Row="1" Grid.Column="1" Margin="2" VerticalContentAlignment="Center"/>
+
+                <Label Content="Стоимость:"       Grid.Row="1" Grid.Column="2" VerticalAlignment="Center"/>
+                <TextBox Name="tbCost"            Grid.Row="1" Grid.Column="3" Margin="2" VerticalContentAlignment="Center"/>
+
+                <Label Content="Срок, лет:"       Grid.Row="1" Grid.Column="4" VerticalAlignment="Center"/>
+                <TextBox Name="tbService"         Grid.Row="1" Grid.Column="5" Margin="2" VerticalContentAlignment="Center"/>
+
+                <Label Content="Кол-во:"          Grid.Row="1" Grid.Column="6" VerticalAlignment="Center"/>
+                <TextBox Name="tbQty"             Grid.Row="1" Grid.Column="7" Margin="2" VerticalContentAlignment="Center"/>
+            </Grid>
+        </GroupBox>
+
+        <!-- Навигация назад -->
+        <TextBlock Grid.Row="3" Margin="0,8,0,0">
+            <Hyperlink NavigateUri="MainPage.xaml">← На главную страницу</Hyperlink>
+        </TextBlock>
+    </Grid>
+</Page>
